@@ -1,0 +1,15 @@
+.authfailure {
+  width: 98%;
+  padding: 1%;
+  background-color: #f2dede;
+  text-align: center;
+  margin-top: 15px;
+  display: none;
+}
+
+.msg {
+  background-color: #dff0d8;
+  padding: 1%;
+  width: 98%;
+  text-align: center;
+}
